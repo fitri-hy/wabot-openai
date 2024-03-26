@@ -4,6 +4,8 @@ Turn your WhatsApp into an AI chatbot integrated by OpenAI
 
 ## NPM Installation
 ```sh
+git clone https://github.com/fitri-hy/wabot-openai.git
+cd wabot-openai
 npm i wabot-openai
 ```
 
